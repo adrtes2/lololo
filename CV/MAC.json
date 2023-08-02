@@ -9,7 +9,11 @@
       "name": "Luis",
       "surnames": "Benítez",
       "title": "Auxiliar",
-      "description": "TBDkuyfjyvbuhybkl"
+      "description": "TBDkuyfjyvbuhybkl",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ_S9HHUQxm0cRibFa3Ta16mA)",
+        "country": "Liechtenstein"
+      }
     }
   },
   "experience": {

@@ -351,6 +351,11 @@
         "adrian.test2@getmanfred.com"
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Account Executive"
+      ]
+    },
     "status": "searchingActively"
   }
 }
